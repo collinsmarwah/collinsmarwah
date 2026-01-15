@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @collinsmarwah
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning c programming language..
+- 👀 I’m interested in vibe coding...
+- 🌱 I’m currently building  WebApps..
 - 💞️ I’m looking to collaborate on everything coding
 
 <!---
